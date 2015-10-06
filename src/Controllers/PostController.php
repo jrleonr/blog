@@ -1,6 +1,6 @@
 <?php
 
-namespace Jrleonr\Post\Controller
+namespace jrleonr\Post\Controller
 
 use Illuminate\Routing\Controller;
 
